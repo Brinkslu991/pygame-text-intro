@@ -38,7 +38,7 @@ Also see the **Drawing Text** section at the end of Chapter 6 (Intro to Graphics
 
 #### Task 4: Using a True Type Font (.ttf)
 
-- Download the sample True Type Font (.ttf) file into your project folder in VS Code
+- Download a True Type Font (.ttf) file of your choice into your project folder in VS Code
 - As shown in the YouTube video, update your `text_font` variable so that it uses the `Font()` function along with your True Type Font (.ttf) file
 - Run your updated script to make sure your name and the name of your school display using the True Type Font you selected
 - **Show your finished code and output to your teacher when you are finished**
