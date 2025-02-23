@@ -33,7 +33,7 @@ Also see the **Drawing Text** section at the end of Chapter 6 (Intro to Graphics
 
 #### Task 3: Using the bold and italic arguments with your text_font variable
 
-- As shown in the YouTube video, update your `text_font` variable so that it uses the `SysFont()` function together with the **bold** and *italic* arguments
+- As shown in the YouTube video, update your `text_font` code so it uses the `SysFont()` function together with the **bold** and *italic* arguments
 
 
 #### Task 4: Using a True Type Font (.ttf)
