@@ -5,7 +5,7 @@
 - Upload your project files to your GitHub repo: **drawing-text**
 
     - **Share the link to your repo on Google Classroom**
-    - **Make sure your repo is a **public** repo (otherwise I can't see what's in the repo)
+    - Make sure your repo is a **public** repo (otherwise I can't see what's in the repo)
 ---
 
 ### Project Resources
