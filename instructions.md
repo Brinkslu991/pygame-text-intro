@@ -20,6 +20,7 @@ Also see the **Drawing Text** section at the end of Chapter 6 (Intro to Graphics
 #### Task 1: Update your `main.py` file
 
 - Add the `draw_text()` function discussed in the YouTube video to your `main.py` file
+    - Remember to add your `draw_text()` function above the `main( )` function in your script!
 - Call the `draw_text()` function twice, once to draw your first and last name, and a second time to draw the name of your home school (or Career Tech) in your Pygame window
 
 ---
