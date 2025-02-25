@@ -24,23 +24,23 @@ Also see the **Drawing Text** section at the end of Chapter 6 (Intro to Graphics
 
 ---
 
-#### Task 2: Update your `config.py` file
+#### Task 2: Set a color for your text
 
-- In your `config.py` file, define a variable `text_font` as shown in the YouTube video
-- When you call your `draw_text()` function, use a color constant from your `config.py` file to set the color of your text
+- In your `main.py` file, define a variable `text_font` (as shown in the YouTube video)
+- When you call your `draw_text()` function in `main.py`, use a color constant from your `config.py` file to set the color of your text
 
 ---
 
 #### Task 3: Using the bold and italic arguments with your text_font variable
 
-- As shown in the YouTube video, update your `text_font` code so it uses the `SysFont()` function together with the **bold** and *italic* arguments
+- **As shown in the YouTube video**, update your `text_font` code so it uses the `SysFont()` function together with the **bold** and *italic* arguments
 
 
 #### Task 4: Using a True Type Font (.ttf)
 
 - Download a True Type Font (.ttf) file of your choice into your project folder in VS Code
 - As shown in the YouTube video, update your `text_font` code so that it uses the `Font()` function along with your True Type Font (.ttf) file
-- Run your updated script to make sure your name and the name of your school display using the True Type Font you selected
+- Run your updated script to make sure your name and the name of your school display in the True Type Font you selected
 - **Show your finished code and output to your teacher when you are finished**
 
 ---
