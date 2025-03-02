@@ -39,7 +39,7 @@ font = pygame.font.Font("Courier New.ttf", size)  # Using a True Type Font (.ttf
 font = pygame.font.SysFont("Courier New", size)  # Using a system font (Courier New)
 ```
 - **font styling**: Should the font be bolded or italicized?
-    - Use the **bold** or **italic** parameter
+    - Use the **bold** or **italic** parameter in your function's parameter list
     - Either parameter can be set to True or False
         - Example: Setting the bold parameter to `True` will bold your text
         - Example: Setting the italic parameter to `False` means you don't want your text to be italicized
